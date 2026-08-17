@@ -17,5 +17,5 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=chambacket&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7e40def-3336-4ef4-a501-0dc50e877d3a/deploy-status)](https://app.netlify.com/projects/peemaksu-portfolio/deploys)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
