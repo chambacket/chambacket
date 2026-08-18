@@ -16,5 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c7e40def-3336-4ef4-a501-0dc50e877d3a/deploy-status)](https://app.netlify.com/projects/peemaksu-portfolio/deploys)
 
