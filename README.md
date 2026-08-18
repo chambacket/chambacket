@@ -14,6 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f1f9076-fd2c-4bf6-a278-a7520cf2effb/deploy-status)](https://app.netlify.com/projects/peemaksu/deploys)
 ---
 
