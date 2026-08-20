@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=chambacket&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=chambacket&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chambacket&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0f1f9076-fd2c-4bf6-a278-a7520cf2effb/deploy-status)](https://app.netlify.com/projects/peemaksu/deploys)
 ---
 
